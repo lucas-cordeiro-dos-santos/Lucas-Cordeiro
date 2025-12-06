@@ -72,6 +72,8 @@ Trabalho com ferramentas modernas do ecossistema de dados, como **dbt**, **Airfl
 
 ## 📊 Minhas estatísticas no GitHub
 
+## 📊 Minhas estatísticas no GitHub
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=lucas-cordeiro-dos-santos&show_icons=true&theme=dark"
@@ -83,4 +85,5 @@ Trabalho com ferramentas modernas do ecossistema de dados, como **dbt**, **Airfl
   />
   <img src="https://github-readme-stats.vercel.app/api?username=lucas-cordeiro-dos-santos&show_icons=true" />
 </picture>
+
 
