@@ -62,4 +62,25 @@ Essa jornada consolidou minha transição para o campo da **engenharia analític
 ---
 
 Seja bem-vindo ao meu repositório! Fique à vontade para explorar, sugerir melhorias ou trocar ideias sobre engenharia, dados e energia ⚡📊
+# 👋 Sobre mim
+
+Sou Engenheiro de Energias Renováveis com forte atuação em **análise de dados**, **modelagem analítica** e **engenharia aplicada**. Atualmente, estou focado em me aprimorar no mercado de dados, com o objetivo de gerar **insights acionáveis** e **resultados concretos** para equipes de negócio.
+
+Trabalho com ferramentas modernas do ecossistema de dados, como **dbt**, **Airflow**, **Microsoft Fabric** e **Power BI**, além de possuir sólida experiência em **SQL** e **Python** para manipulação, automação e construção de pipelines analíticos. Minha trajetória combina engenharia, automação, confiabilidade operacional e desenvolvimento de soluções orientadas a dados, unindo visão técnica e capacidade analítica para transformar informações complexas em **valor real para as organizações**.
+
+---
+
+## 📊 Minhas estatísticas no GitHub
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
+</picture>
 
