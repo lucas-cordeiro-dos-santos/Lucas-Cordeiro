@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Lucas Cordeiro
 
-Sou Engenheiro de Energias Renováveis com forte atuação em **análise de dados**, **modelagem analítica** e **engenharia aplicada**, integrando conhecimentos técnicos do setor elétrico a ferramentas modernas de dados como **dbt**, **Airflow**, **Microsoft Fabric** e **Power BI**. Minha trajetória combina engenharia, automação, confiabilidade operacional e desenvolvimento de pipelines analíticos.
+Sou Engenheiro de Energias Renováveis com forte atuação em **análise de dados**, **modelagem analítica** e **engenharia aplicada**. Atualmente, estou focado em me aprimorar no mercado de dados, com o objetivo de gerar **insights acionáveis** e **resultados concretos** para equipes de negócio.
+
+Trabalho com ferramentas modernas do ecossistema de dados, como **dbt**, **Apache Airflow**, **Microsoft Fabric** e **Power BI**, além de possuir sólida experiência em **SQL** e **Python** para manipulação, automação e construção de pipelines analíticos. Minha trajetória combina engenharia, automação, confiabilidade operacional e desenvolvimento de soluções orientadas a dados, unindo visão técnica e capacidade analítica para transformar informações complexas em **valor real para as organizações**.
 
 ---
 
@@ -55,9 +57,8 @@ Essa jornada consolidou minha transição para o campo da **engenharia analític
 
 ## 📬 Contato
 
-- **LinkedIn:** www.linkedin.com/in/lucas-xxxxx  
-- **E-mail:** seuemail@exemplo.com  
-
+- **LinkedIn:** https://www.linkedin.com/in/lucas-cordeiro-4667351b1/
+- **E-mail:** lucascordeirodossantoscds@hotmail.com
 ---
 
 Seja bem-vindo ao meu repositório! Fique à vontade para explorar, sugerir melhorias ou trocar ideias sobre engenharia, dados e energia ⚡📊
