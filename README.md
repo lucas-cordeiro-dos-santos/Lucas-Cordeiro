@@ -69,12 +69,19 @@ Sou Engenheiro de Energias Renováveis com forte atuação em **análise de dado
 Trabalho com ferramentas modernas do ecossistema de dados, como **dbt**, **Airflow**, **Microsoft Fabric** e **Power BI**, além de possuir sólida experiência em **SQL** e **Python** para manipulação, automação e construção de pipelines analíticos. Minha trajetória combina engenharia, automação, confiabilidade operacional e desenvolvimento de soluções orientadas a dados, unindo visão técnica e capacidade analítica para transformar informações complexas em **valor real para as organizações**.
 
 ---
+## 🧰 Tecnologias que utilizo
 
-## 📊 Minhas estatísticas no GitHub
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-8210F5?style=for-the-badge&logo=microsoftfabric&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 Minhas estatísticas no GitHub
+![Windographer](https://img.shields.io/badge/Windographer-0A4C8A?style=for-the-badge&logo=wind&logoColor=white)
+![PVsyst](https://img.shields.io/badge/PVsyst-1C8D73?style=for-the-badge&logo=solar-power&logoColor=white)
 
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-cordeiro-dos-santos&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
